@@ -36,6 +36,8 @@ Site web professionnel de services de **courrier sécurisé** et **serrurier d'u
 - Indicateurs de statut colorés (live, urgent, warn, default)
 - Design système cohérent avec tokens de couleurs CSS
 
+<img width="873" height="876" alt="Image" src="https://github.com/user-attachments/assets/501dcc1d-b598-4d75-aba7-71919a09cb5c" />
+
 ## Démarrage
 
 ### 1. Installer les dépendances
