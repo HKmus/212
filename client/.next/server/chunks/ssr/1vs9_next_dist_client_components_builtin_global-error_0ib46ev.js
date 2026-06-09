@@ -1,0 +1,3 @@
+module.exports=[71569,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(59534);a.n(d("[project]/Documents/vscode/ts/client/node_modules/next/dist/client/components/builtin/global-error.js <module evaluation>"))},72403,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(59534);a.n(d("[project]/Documents/vscode/ts/client/node_modules/next/dist/client/components/builtin/global-error.js"))},67385,a=>{"use strict";a.i(71569);var b=a.i(72403);a.n(b)},73772,a=>{a.n(a.i(67385))}];
+
+//# sourceMappingURL=1vs9_next_dist_client_components_builtin_global-error_0ib46ev.js.map
