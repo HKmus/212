@@ -1,6 +1,6 @@
 # 212 Secure Services
 
-Site web professionnel de services de **courrier sécurisé** et **serrurier d'urgence** à Londres. Développé avec **Next.js 16**, **React 19** et **Vite**.
+Site web professionnel de services de **courrier sécurisé** et **serrurier d'urgence** à Londres. Développé avec **React 19** et **Vite**.
 
 ## Pile technologique (Tech Stack)
 
