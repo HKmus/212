@@ -4,14 +4,11 @@ Site web professionnel de services de **courrier sécurisé** et **serrurier d'u
 
 ## Pile technologique (Tech Stack)
 
-- **Framework** — Next.js 16.2.7 (App Router)
 - **Bibliothèque UI** — React 19.2.6
 - **Build Tool** — Vite (via `@vitejs/plugin-react`)
 - **Style** — CSS natif avec variables CSS personnalisées (thème sombre)
 - **Icônes** — SVG inline personnalisés
 - **Polices** — Instrument Serif, Geist, Geist Mono (via Google Fonts)
-- **Routing** — React Router DOM 7.16.0 + Next.js App Router
-- **Linting** — ESLint 10 avec `eslint-plugin-react-hooks` et `eslint-plugin-react-refresh`
 
 ## Fonctionnalités
 
